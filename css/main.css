@@ -2,13 +2,22 @@ body {
     background-image: url("../assets/bg-pattern.png");
 }
 
-.banner {
+.container {
+    max-width: 1080px;
+}
+
+.header {
     background-color: #000000;
 }
 
-.logo {
+.logo-big {
     width: 500px;
     height: 140px;
+}
+
+.logo-small {
+    width: 250px;
+    height: 75px;
 }
 
 .menu {
@@ -19,4 +28,12 @@ body {
     padding: 0;
     margin: 16px;
     height: 100%;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.copyright {
+    color: #cccccc;
 }
