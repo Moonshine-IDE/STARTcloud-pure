@@ -1,0 +1,21 @@
+body {
+    background-image: url("../assets/bg-pattern.png");
+}
+
+.banner {
+    background-color: #000000;
+}
+
+.logo {
+    width: 500px;
+    height: 140px;
+}
+
+.menu {
+    color: #ffffff;
+}
+
+.card {
+    padding: 0;
+    margin: 16px;
+}
