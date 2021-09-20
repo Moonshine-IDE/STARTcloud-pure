@@ -18,4 +18,5 @@ body {
 .card {
     padding: 0;
     margin: 16px;
+    height: 100%;
 }
