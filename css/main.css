@@ -30,6 +30,16 @@ body {
     text-decoration: none;
 }
 
+.mail-link {
+    color: #588029;
+    text-decoration: none;
+}
+
+.mail-link:hover {
+    color: #8ac740;
+    text-decoration: none;
+}
+
 .card {
     padding: 0;
     margin: 16px;
