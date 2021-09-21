@@ -20,8 +20,14 @@ body {
     height: 75px;
 }
 
-.menu {
+.menu-link > a {
     color: #ffffff;
+    text-decoration: none;
+}
+
+.menu-link > a:hover {
+    color: #8ac740;
+    text-decoration: none;
 }
 
 .card {
